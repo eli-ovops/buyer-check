@@ -1,0 +1,77 @@
+# Filled from the website-delivery-sop canonical template; unknowns remain null.
+schema_version: "1.0"
+status: "draft-local-only"
+site_id: "buyer-check-local"
+project: "二手数码购买助手"
+confirmed_by: null
+confirmed_at: null
+no_secret_values: true
+server:
+  reference: null
+  owner: null
+environments:
+  preview: { enabled: false, public_url: null, admin_path: null }
+  production: { enabled: false, public_url: null, admin_path: null }
+repository:
+  repo_url: null
+  approved_branch: null
+  production_branch: null
+  commit_sha_required: true
+architecture: "static"
+toolchain:
+  node: ">=22.12.0"
+  pnpm_major: "10"
+  package_manager: "pnpm@10.28.2"
+  lockfile: "pnpm-lock.yaml"
+  payload_version: null
+runtime:
+  app_port_reference: "local Vite 3187"
+  health_port_reference: null
+deployment:
+  mechanism: "local"
+  call_carrier: "local process"
+  forced_command_reference: null
+  allowed_modes: []
+  guide_reference: null
+  production_approval_required: true
+  authorization_reference: null
+  deploy_owner: null
+  validate_required: "not-applicable"
+  status_required: true
+  eli_preview_exception: false
+storage:
+  code_reference: null
+  releases_reference: null
+  database_reference: null
+  media_reference: null
+database:
+  type: null
+  credential_secret_ref: null
+  business_data_in_file: false
+media:
+  credential_secret_ref: null
+  managed_separately_from_code: true
+roles:
+  owner: null
+  developer: null
+  server_owner: null
+migration:
+  required: false
+  required_for_localization: true
+  procedure_reference: null
+  production_approval_required: true
+backup:
+  procedure_reference: null
+  database_and_media_separate: true
+  restore_rehearsal_required: true
+release_retention:
+  policy_reference: null
+  previous_accepted_release_required: true
+health_checks:
+  public_page: null
+  application: null
+  admin: null
+  api: null
+rollback:
+  procedure_reference: null
+  explicit_authorization_required: true

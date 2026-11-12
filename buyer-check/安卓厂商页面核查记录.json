@@ -1,0 +1,447 @@
+{
+  "date": "2026-11-06",
+  "scope": "63 个厂商页面打开结果：只说明页面能否读取，不等于已核对每个型号的全部功能；具体步骤依据见代码和覆盖表。",
+  "rows": [
+    {
+      "model": "Mate 80 Pro Max",
+      "url": "https://consumer.huawei.com/cn/support/phones/mate80-pro-max/",
+      "head": "HUAWEI Mate 80 Pro Max售后服务和维修-华为官网 (https://consumer.huawei.com/cn/support/phones/mate80-pro-max/) citeturn463view0 [wordlim: 200] Crawled: yesterday; Content type: text/html; Source: open({\"ref_id\":\"https://consumer.huawei.com/cn/support/phones/mate80-pro-max/\",\"lineno\":null}); Total lines: 152 L0: [Input] [Input] ",
+      "result": "页面可读，内容待复核",
+      "lineCount": 152
+    },
+    {
+      "model": "Mate 80 Pro",
+      "url": "https://consumer.huawei.com/cn/support/phones/mate80-pro/",
+      "head": "HUAWEI Mate 80 Pro售后服务和维修-华为官网 (https://consumer.huawei.com/cn/support/phones/mate80-pro/) citeturn466view0 [wordlim: 200] Crawled: last week; Content type: text/html; Source: open({\"ref_id\":\"https://consumer.huawei.com/cn/support/phones/mate80-pro/\",\"lineno\":null}); Total lines: 152 L0: [Input] [Input] [Input] [Inp",
+      "result": "页面可读，内容待复核",
+      "lineCount": 152
+    },
+    {
+      "model": "Mate 80",
+      "url": "https://consumer.huawei.com/cn/support/phones/mate80/",
+      "head": "HUAWEI Mate 80售后服务和维修-华为官网 (https://consumer.huawei.com/cn/support/phones/mate80/) citeturn468view0 [wordlim: 200] Crawled: 6 days ago; Content type: text/html; Source: open({\"ref_id\":\"https://consumer.huawei.com/cn/support/phones/mate80/\",\"lineno\":null}); Total lines: 152 L0: [Input] [Input] [Input] [Input] [Input]",
+      "result": "页面可读，内容待复核",
+      "lineCount": 152
+    },
+    {
+      "model": "Mate 70",
+      "url": "https://consumer.huawei.com/cn/support/mate70series/service-benefit/",
+      "head": "HUAWEI Mate 70系列服务权益 | 华为官网 (https://consumer.huawei.com/cn/support/mate70series/service-benefit/) citeturn462view0 [wordlim: 200] Crawled: 2 days ago; Content type: text/html; Source: open({\"ref_id\":\"https://consumer.huawei.com/cn/support/mate70series/service-benefit/\",\"lineno\":null}); Total lines: 172 L0: [Input] ",
+      "result": "页面可读，内容待复核",
+      "lineCount": 172
+    },
+    {
+      "model": "Mate 60 Pro+",
+      "url": "https://consumer.huawei.com/cn/support/phones/mate60-pro-plus/",
+      "head": "华为Mate 60 Pro+售后服务和维修-华为官网 (https://consumer.huawei.com/cn/support/phones/mate60-pro-plus/) citeturn469view0 [wordlim: 200] Crawled: 2 days ago; Content type: text/html; Source: open({\"ref_id\":\"https://consumer.huawei.com/cn/support/phones/mate60-pro-plus/\",\"lineno\":null}); Total lines: 148 L0: [Input] [Input] [Inpu",
+      "result": "页面可读，内容待复核",
+      "lineCount": 148
+    },
+    {
+      "model": "Mate 60",
+      "url": "https://consumer.huawei.com/cn/support/mate60series/service-benefit/",
+      "head": "HUAWEI Mate 60系列服务权益 | 华为官网 (https://consumer.huawei.com/cn/support/mate60series/service-benefit/) citeturn464view0 [wordlim: 200] Crawled: yesterday; Content type: text/html; Source: open({\"ref_id\":\"https://consumer.huawei.com/cn/support/mate60series/service-benefit/\",\"lineno\":null}); Total lines: 127 L0: [Input] [",
+      "result": "页面可读，内容待复核",
+      "lineCount": 127
+    },
+    {
+      "model": "Pura 80 Ultra",
+      "url": "https://consumer.huawei.com/cn/support/phones/pura80-ultra/",
+      "head": "HUAWEI Pura 80 Ultra售后服务和维修-华为官网 (https://consumer.huawei.com/cn/support/phones/pura80-ultra/) citeturn465view0 [wordlim: 200] Crawled: 2 days ago; Content type: text/html; Source: open({\"ref_id\":\"https://consumer.huawei.com/cn/support/phones/pura80-ultra/\",\"lineno\":null}); Total lines: 151 L0: [Input] [Input] [Inpu",
+      "result": "页面可读，内容待复核",
+      "lineCount": 151
+    },
+    {
+      "model": "Pura 80 Pro+",
+      "url": "https://consumer.huawei.com/cn/support/phones/pura80-pro-plus/",
+      "head": "HUAWEI Pura 80 Pro+售后服务和维修-华为官网 (https://consumer.huawei.com/cn/support/phones/pura80-pro-plus/) citeturn467view0 [wordlim: 200] Crawled: last week; Content type: text/html; Source: open({\"ref_id\":\"https://consumer.huawei.com/cn/support/phones/pura80-pro-plus/\",\"lineno\":null}); Total lines: 151 L0: [Input] [Input] [",
+      "result": "页面可读，内容待复核",
+      "lineCount": 151
+    },
+    {
+      "model": "Pura 80 Pro",
+      "url": "https://consumer.huawei.com/cn/support/phones/pura80-pro/",
+      "head": "HUAWEI Pura 80 Pro售后服务和维修-华为官网 (https://consumer.huawei.com/cn/support/phones/pura80-pro/) citeturn475view0 [wordlim: 200] Crawled: last week; Content type: text/html; Source: open({\"ref_id\":\"https://consumer.huawei.com/cn/support/phones/pura80-pro/\",\"lineno\":null}); Total lines: 151 L0: [Input] [Input] [Input] [Inp",
+      "result": "页面可读，内容待复核",
+      "lineCount": 151
+    },
+    {
+      "model": "Pura 80",
+      "url": "https://consumer.huawei.com/cn/support/phones/pura80/",
+      "head": "HUAWEI Pura 80售后服务和维修-华为官网 (https://consumer.huawei.com/cn/support/phones/pura80/) citeturn474view0 [wordlim: 200] Crawled: last week; Content type: text/html; Source: open({\"ref_id\":\"https://consumer.huawei.com/cn/support/phones/pura80/\",\"lineno\":null}); Total lines: 151 L0: [Input] [Input] [Input] [Input] [Input] ",
+      "result": "页面可读，内容待复核",
+      "lineCount": 151
+    },
+    {
+      "model": "Pura 70",
+      "url": "https://consumer.huawei.com/cn/support/pura70series/service-benefit/",
+      "head": "HUAWEI Pura 70系列 服务权益 (https://consumer.huawei.com/cn/support/pura70series/service-benefit/) citeturn471view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://consumer.huawei.com/cn/support/pura70series/service-benefit/\",\"lineno\":null}); Total lines: 179 L0: [Input] [Input] [In",
+      "result": "页面可读，内容待复核",
+      "lineCount": 179
+    },
+    {
+      "model": "Mate X7",
+      "url": "https://consumer.huawei.com/cn/support/phones/mate-x7/",
+      "head": "HUAWEI Mate X7售后服务和维修-华为官网 (https://consumer.huawei.com/cn/support/phones/mate-x7/) citeturn470view0 [wordlim: 200] Crawled: last week; Content type: text/html; Source: open({\"ref_id\":\"https://consumer.huawei.com/cn/support/phones/mate-x7/\",\"lineno\":null}); Total lines: 149 L0: [Input] [Input] [Input] [Input] [Input",
+      "result": "页面可读，内容待复核",
+      "lineCount": 149
+    },
+    {
+      "model": "Mate X6",
+      "url": "https://consumer.huawei.com/cn/support/phones/mate-x6/",
+      "head": "HUAWEI Mate X6售后服务和维修-华为官网 (https://consumer.huawei.com/cn/support/phones/mate-x6/) citeturn472view0 [wordlim: 200] Crawled: 4 days ago; Content type: text/html; Source: open({\"ref_id\":\"https://consumer.huawei.com/cn/support/phones/mate-x6/\",\"lineno\":null}); Total lines: 149 L0: [Input] [Input] [Input] [Input] [Inpu",
+      "result": "页面可读，内容待复核",
+      "lineCount": 149
+    },
+    {
+      "model": "Mate X5",
+      "url": "https://consumer.huawei.com/cn/support/phones/mate-x5/",
+      "head": "华为Mate X5售后服务和维修-华为官网 (https://consumer.huawei.com/cn/support/phones/mate-x5/) citeturn476view0 [wordlim: 200] Crawled: 3 days ago; Content type: text/html; Source: open({\"ref_id\":\"https://consumer.huawei.com/cn/support/phones/mate-x5/\",\"lineno\":null}); Total lines: 145 L0: [Input] [Input] [Input] [Input] [Input] [I",
+      "result": "页面可读，内容待复核",
+      "lineCount": 145
+    },
+    {
+      "model": "Pura X",
+      "url": "https://consumer.huawei.com/cn/support/phones/pura-x/",
+      "head": "Internal Error () citeturn473view0 [wordlim: 200] Source: open({\"ref_id\":\"https://consumer.huawei.com/cn/support/phones/pura-x/\",\"lineno\":null});  Failed to fetch https://consumer.huawei.com/cn/support/phones/pura-x/: (400) Timeout fetching",
+      "result": "访问受阻",
+      "lineCount": null
+    },
+    {
+      "model": "nova 15 Ultra",
+      "url": "https://consumer.huawei.com/cn/support/phones/nova15-ultra/",
+      "head": "HUAWEI nova 15 Ultra售后服务和维修-华为官网 (https://consumer.huawei.com/cn/support/phones/nova15-ultra/) citeturn477view0 [wordlim: 200] Crawled: 5 days ago; Content type: text/html; Source: open({\"ref_id\":\"https://consumer.huawei.com/cn/support/phones/nova15-ultra/\",\"lineno\":null}); Total lines: 144 L0: [Input] [Input] [Inpu",
+      "result": "页面可读，内容待复核",
+      "lineCount": 144
+    },
+    {
+      "model": "nova 15 Pro",
+      "url": "https://consumer.huawei.com/cn/support/phones/nova15-pro/",
+      "head": "HUAWEI nova 15 Pro售后服务和维修-华为官网 (https://consumer.huawei.com/cn/support/phones/nova15-pro/) citeturn478view0 [wordlim: 200] Crawled: 3 weeks ago; Content type: text/html; Source: open({\"ref_id\":\"https://consumer.huawei.com/cn/support/phones/nova15-pro/\",\"lineno\":null}); Total lines: 145 L0: [Input] [Input] [Input] [I",
+      "result": "页面可读，内容待复核",
+      "lineCount": 145
+    },
+    {
+      "model": "nova 15",
+      "url": "https://consumer.huawei.com/cn/support/phones/nova15/",
+      "head": "HUAWEI nova 15售后服务和维修-华为官网 (https://consumer.huawei.com/cn/support/phones/nova15/) citeturn483view0 [wordlim: 200] Crawled: 2 weeks ago; Content type: text/html; Source: open({\"ref_id\":\"https://consumer.huawei.com/cn/support/phones/nova15/\",\"lineno\":null}); Total lines: 145 L0: [Input] [Input] [Input] [Input] [Input",
+      "result": "页面可读，内容待复核",
+      "lineCount": 145
+    },
+    {
+      "model": "nova 14 Ultra",
+      "url": "https://consumer.huawei.com/cn/support/phones/nova14-ultra/",
+      "head": "HUAWEI nova 14 Ultra售后服务和维修-华为官网 (https://consumer.huawei.com/cn/support/phones/nova14-ultra/) citeturn479view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://consumer.huawei.com/cn/support/phones/nova14-ultra/\",\"lineno\":null}); Total lines: 145 L0: [Input] [Input] [Input] [I",
+      "result": "页面可读，内容待复核",
+      "lineCount": 145
+    },
+    {
+      "model": "nova 14 Pro",
+      "url": "https://consumer.huawei.com/cn/support/phones/nova14-pro/",
+      "head": "HUAWEI nova 14 Pro售后服务和维修-华为官网 (https://consumer.huawei.com/cn/support/phones/nova14-pro/) citeturn481view0 [wordlim: 200] Crawled: last month; Content type: text/html; Source: open({\"ref_id\":\"https://consumer.huawei.com/cn/support/phones/nova14-pro/\",\"lineno\":null}); Total lines: 155 L0: [Input] [Input] [Input] [In",
+      "result": "页面可读，内容待复核",
+      "lineCount": 155
+    },
+    {
+      "model": "nova 14",
+      "url": "https://consumer.huawei.com/cn/support/phones/nova14/",
+      "head": "HUAWEI nova 14售后服务和维修-华为官网 (https://consumer.huawei.com/cn/support/phones/nova14/) citeturn480view0 [wordlim: 200] Crawled: 3 days ago; Content type: text/html; Source: open({\"ref_id\":\"https://consumer.huawei.com/cn/support/phones/nova14/\",\"lineno\":null}); Total lines: 146 L0: [Input] [Input] [Input] [Input] [Input]",
+      "result": "页面可读，内容待复核",
+      "lineCount": 146
+    },
+    {
+      "model": "nova 13 Pro",
+      "url": "https://consumer.huawei.com/cn/support/phones/nova13-pro/",
+      "head": "HUAWEI nova 13 Pro售后服务和维修-华为官网 (https://consumer.huawei.com/cn/support/phones/nova13-pro/) citeturn482view0 [wordlim: 200] Crawled: last week; Content type: text/html; Source: open({\"ref_id\":\"https://consumer.huawei.com/cn/support/phones/nova13-pro/\",\"lineno\":null}); Total lines: 143 L0: [Input] [Input] [Input] [Inp",
+      "result": "页面可读，内容待复核",
+      "lineCount": 143
+    },
+    {
+      "model": "nova 13",
+      "url": "https://consumer.huawei.com/cn/support/phones/nova13/",
+      "head": "HUAWEI nova 13售后服务和维修-华为官网 (https://consumer.huawei.com/cn/support/phones/nova13/) citeturn485view0 [wordlim: 200] Crawled: last week; Content type: text/html; Source: open({\"ref_id\":\"https://consumer.huawei.com/cn/support/phones/nova13/\",\"lineno\":null}); Total lines: 141 L0: [Input] [Input] [Input] [Input] [Input] ",
+      "result": "页面可读，内容待复核",
+      "lineCount": 141
+    },
+    {
+      "model": "nova 12 Pro",
+      "url": "https://consumer.huawei.com/cn/support/phones/nova12-pro/",
+      "head": "HUAWEI nova 12 Pro售后服务和维修-华为官网 (https://consumer.huawei.com/cn/support/phones/nova12-pro/) citeturn484view0 [wordlim: 200] Crawled: 3 days ago; Content type: text/html; Source: open({\"ref_id\":\"https://consumer.huawei.com/cn/support/phones/nova12-pro/\",\"lineno\":null}); Total lines: 141 L0: [Input] [Input] [Input] [In",
+      "result": "页面可读，内容待复核",
+      "lineCount": 141
+    },
+    {
+      "model": "nova 12",
+      "url": "https://consumer.huawei.com/cn/support/phones/nova12/",
+      "head": "Internal Error () citeturn488view0 [wordlim: 200] Source: open({\"ref_id\":\"https://consumer.huawei.com/cn/support/phones/nova12/\",\"lineno\":null});  Failed to fetch https://consumer.huawei.com/cn/support/phones/nova12/: (400) Timeout fetching",
+      "result": "访问受阻",
+      "lineCount": null
+    },
+    {
+      "model": "荣耀 Magic7 RSR",
+      "url": "https://www.honor.com/cn/shop/product/10086284349227.html",
+      "head": "荣耀Magic7 RSR 保时捷设计 - 自营官方商城，全国联保售后无忧 | 荣耀商城 (https://www.honor.com/cn/shop/product/10086284349227.html) citeturn492view0 [wordlim: 200] Crawled: yesterday; Content type: text/html; Source: open({\"ref_id\":\"https://www.honor.com/cn/shop/product/10086284349227.html\",\"lineno\":null}); Total lines: 395 L0:   * 【0†关于荣耀】 L1",
+      "result": "页面可读，内容待复核",
+      "lineCount": 395
+    },
+    {
+      "model": "荣耀 Magic7 Pro",
+      "url": "https://www.honor.com/cn/shop/product/10086438260947.html",
+      "head": "荣耀Magic7 Pro - 自营官方商城，全国联保售后无忧 | 荣耀商城 (https://www.honor.com/cn/shop/product/10086438260947.html) citeturn490view0 [wordlim: 200] Crawled: 6 days ago; Content type: text/html; Source: open({\"ref_id\":\"https://www.honor.com/cn/shop/product/10086438260947.html\",\"lineno\":null}); Total lines: 380 L0:   * 【0†关于荣耀】 L1:   *",
+      "result": "页面可读，内容待复核",
+      "lineCount": 380
+    },
+    {
+      "model": "荣耀 Magic7",
+      "url": "https://www.honor.com/cn/phones/honor-magic7/",
+      "head": "荣耀Magic7-产品介绍-功能-价格 | 荣耀官方网站 (https://www.honor.com/cn/phones/honor-magic7/) citeturn493view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://www.honor.com/cn/phones/honor-magic7/\",\"lineno\":null}); Total lines: 1376 L0: [Input] [Input] [Input] L1: ",
+      "result": "页面可读，内容待复核",
+      "lineCount": 1376
+    },
+    {
+      "model": "荣耀 Magic6 Pro",
+      "url": "https://www.honor.com/cn/shop/product/10086486167981.html",
+      "head": "荣耀Magic6 Pro - 自营官方商城，全国联保售后无忧 | 荣耀商城 (https://www.honor.com/cn/shop/product/10086486167981.html) citeturn489view0 [wordlim: 200] Crawled: last month; Content type: text/html; Source: open({\"ref_id\":\"https://www.honor.com/cn/shop/product/10086486167981.html\",\"lineno\":null}); Total lines: 372 L0:   * 【0†关于荣耀】 L1:   *",
+      "result": "页面可读，内容待复核",
+      "lineCount": 372
+    },
+    {
+      "model": "荣耀 Magic6",
+      "url": "https://www.honor.com/cn/shop/product/10086560795429.html",
+      "head": "荣耀Magic6 - 自营官方商城，全国联保售后无忧 | 荣耀商城 (https://www.honor.com/cn/shop/product/10086560795429.html) citeturn487view0 [wordlim: 200] Crawled: last month; Content type: text/html; Source: open({\"ref_id\":\"https://www.honor.com/cn/shop/product/10086560795429.html\",\"lineno\":null}); Total lines: 373 L0:   * 【0†关于荣耀】 L1:   * 【1†",
+      "result": "页面可读，内容待复核",
+      "lineCount": 373
+    },
+    {
+      "model": "荣耀 200 Pro",
+      "url": "https://www.honor.com/cn/shop/product/10086883437529.html",
+      "head": "Internal Error () citeturn486view0 [wordlim: 200] Source: open({\"ref_id\":\"https://www.honor.com/cn/shop/product/10086883437529.html\",\"lineno\":null});  URL https://www.honor.com/cn/shop/product/10086883437529.html is not accessible via this tool.",
+      "result": "访问受阻",
+      "lineCount": null
+    },
+    {
+      "model": "荣耀 200",
+      "url": "https://www.honor.com/cn/shop/product/10086637274982.html",
+      "head": "Internal Error () citeturn491view0 [wordlim: 200] Source: open({\"ref_id\":\"https://www.honor.com/cn/shop/product/10086637274982.html\",\"lineno\":null});  Failed to fetch https://www.honor.com/cn/shop/product/10086637274982.html: Cache miss",
+      "result": "访问受阻",
+      "lineCount": null
+    },
+    {
+      "model": "OPPO Find X9 Ultra",
+      "url": "https://www.oppo.com/cn/smartphones/series-find-x/find-x9-ultra/specs/",
+      "head": "OPPO Find X9 Ultra 产品参数 | OPPO 官方网站 (https://www.oppo.com/cn/smartphones/series-find-x/find-x9-ultra/specs/) citeturn495view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://www.oppo.com/cn/smartphones/series-find-x/find-x9-ultra/specs/\",\"lineno\":null}); Total lines: 456 L0: 【",
+      "result": "页面可读，内容待复核",
+      "lineCount": 456
+    },
+    {
+      "model": "OPPO Find X9 Pro",
+      "url": "https://www.oppo.com/cn/smartphones/series-find-x/find-x9-pro/specs/",
+      "head": "OPPO Find X9 Pro 产品参数 | OPPO 官方网站 (https://www.oppo.com/cn/smartphones/series-find-x/find-x9-pro/specs/) citeturn500view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://www.oppo.com/cn/smartphones/series-find-x/find-x9-pro/specs/\",\"lineno\":null}); Total lines: 445 L0: 【0†Skip",
+      "result": "页面可读，内容待复核",
+      "lineCount": 445
+    },
+    {
+      "model": "OPPO Find X9",
+      "url": "https://www.oppo.com/cn/smartphones/series-find-x/find-x9/specs/",
+      "head": "OPPO Find X9 产品参数 | OPPO 官方网站 (https://www.oppo.com/cn/smartphones/series-find-x/find-x9/specs/) citeturn498view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://www.oppo.com/cn/smartphones/series-find-x/find-x9/specs/\",\"lineno\":null}); Total lines: 445 L0: 【0†Skip to main con",
+      "result": "页面可读，内容待复核",
+      "lineCount": 445
+    },
+    {
+      "model": "OPPO Find X8 Ultra",
+      "url": "https://www.oppo.com/cn/smartphones/series-find-x/find-x8-ultra/specs/",
+      "head": "OPPO Find X8 Ultra 产品参数 | OPPO 官方网站 (https://www.oppo.com/cn/smartphones/series-find-x/find-x8-ultra/specs/) citeturn499view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://www.oppo.com/cn/smartphones/series-find-x/find-x8-ultra/specs/\",\"lineno\":null}); Total lines: 448 L0: 【",
+      "result": "页面可读，内容待复核",
+      "lineCount": 448
+    },
+    {
+      "model": "OPPO Find X8 Pro",
+      "url": "https://www.oppo.com/cn/smartphones/series-find-x/find-x8-pro/specs/",
+      "head": "OPPO Find X8 Pro 产品参数 | OPPO 官方网站 (https://www.oppo.com/cn/smartphones/series-find-x/find-x8-pro/specs/) citeturn496view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://www.oppo.com/cn/smartphones/series-find-x/find-x8-pro/specs/\",\"lineno\":null}); Total lines: 436 L0: 【0†Skip",
+      "result": "页面可读，内容待复核",
+      "lineCount": 436
+    },
+    {
+      "model": "OPPO Find X8",
+      "url": "https://www.oppo.com/cn/smartphones/series-find-x/find-x8/specs/",
+      "head": "OPPO Find X8 产品参数 | OPPO 官方网站 (https://www.oppo.com/cn/smartphones/series-find-x/find-x8/specs/) citeturn501view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://www.oppo.com/cn/smartphones/series-find-x/find-x8/specs/\",\"lineno\":null}); Total lines: 435 L0: 【0†Skip to main con",
+      "result": "页面可读，内容待复核",
+      "lineCount": 435
+    },
+    {
+      "model": "OPPO Find X7 Ultra",
+      "url": "https://www.oppo.com/cn/smartphones/series-find-x/find-x7-ultra/specs/",
+      "head": "OPPO Find X7 Ultra 产品参数 | OPPO 官方网站 (https://www.oppo.com/cn/smartphones/series-find-x/find-x7-ultra/specs/) citeturn497view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://www.oppo.com/cn/smartphones/series-find-x/find-x7-ultra/specs/\",\"lineno\":null}); Total lines: 433 L0: 【",
+      "result": "页面可读，内容待复核",
+      "lineCount": 433
+    },
+    {
+      "model": "OPPO Find X7",
+      "url": "https://www.oppo.com/cn/smartphones/series-find-x/find-x7/specs/",
+      "head": "OPPO Find X7 产品参数 | OPPO 官方网站 (https://www.oppo.com/cn/smartphones/series-find-x/find-x7/specs/) citeturn494view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://www.oppo.com/cn/smartphones/series-find-x/find-x7/specs/\",\"lineno\":null}); Total lines: 429 L0: 【0†Skip to main con",
+      "result": "页面可读，内容待复核",
+      "lineCount": 429
+    },
+    {
+      "model": "OPPO Reno15 Pro",
+      "url": "https://www.oppo.com/cn/smartphones/series-reno/reno15-pro/specs/",
+      "head": "OPPO Reno15 Pro 产品参数 | OPPO 官方网站 (https://www.oppo.com/cn/smartphones/series-reno/reno15-pro/specs/) citeturn505view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://www.oppo.com/cn/smartphones/series-reno/reno15-pro/specs/\",\"lineno\":null}); Total lines: 445 L0: 【0†Skip to mai",
+      "result": "页面可读，内容待复核",
+      "lineCount": 445
+    },
+    {
+      "model": "OPPO Reno15",
+      "url": "https://www.oppo.com/cn/smartphones/series-reno/reno15/specs/",
+      "head": "OPPO Reno15 产品参数 | OPPO 官方网站 (https://www.oppo.com/cn/smartphones/series-reno/reno15/specs/) citeturn503view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://www.oppo.com/cn/smartphones/series-reno/reno15/specs/\",\"lineno\":null}); Total lines: 445 L0: 【0†Skip to main content】 L",
+      "result": "页面可读，内容待复核",
+      "lineCount": 445
+    },
+    {
+      "model": "OPPO Reno14 Pro",
+      "url": "https://www.oppo.com/cn/smartphones/series-reno/reno14-pro/specs/",
+      "head": "OPPO Reno14 Pro 产品参数 | OPPO 官方网站 (https://www.oppo.com/cn/smartphones/series-reno/reno14-pro/specs/) citeturn509view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://www.oppo.com/cn/smartphones/series-reno/reno14-pro/specs/\",\"lineno\":null}); Total lines: 444 L0: 【0†Skip to mai",
+      "result": "页面可读，内容待复核",
+      "lineCount": 444
+    },
+    {
+      "model": "OPPO Reno14",
+      "url": "https://www.oppo.com/cn/smartphones/series-reno/reno14/specs/",
+      "head": "OPPO Reno14 产品参数 | OPPO 官方网站 (https://www.oppo.com/cn/smartphones/series-reno/reno14/specs/) citeturn508view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://www.oppo.com/cn/smartphones/series-reno/reno14/specs/\",\"lineno\":null}); Total lines: 446 L0: 【0†Skip to main content】 L",
+      "result": "页面可读，内容待复核",
+      "lineCount": 446
+    },
+    {
+      "model": "OPPO Reno13",
+      "url": "https://www.oppo.com/cn/smartphones/series-reno/reno13/specs/",
+      "head": "OPPO Reno13 产品参数 | OPPO 官方网站 (https://www.oppo.com/cn/smartphones/series-reno/reno13/specs/) citeturn504view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://www.oppo.com/cn/smartphones/series-reno/reno13/specs/\",\"lineno\":null}); Total lines: 427 L0: 【0†Skip to main content】 L",
+      "result": "页面可读，内容待复核",
+      "lineCount": 427
+    },
+    {
+      "model": "OPPO Reno12 Pro",
+      "url": "https://www.oppo.com/cn/smartphones/series-reno/reno12-pro/",
+      "head": "OPPO Reno12 Pro 给点银色瞧瞧 | OPPO 官方网站 (https://www.oppo.com/cn/smartphones/series-reno/reno12-pro/) citeturn507view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://www.oppo.com/cn/smartphones/series-reno/reno12-pro/\",\"lineno\":null}); Total lines: 703 L0: 【0†Skip to main content】",
+      "result": "页面可读，内容待复核",
+      "lineCount": 703
+    },
+    {
+      "model": "OPPO Reno12",
+      "url": "https://www.oppo.com/cn/smartphones/series-reno/reno12/",
+      "head": "OPPO Reno12，给点银色瞧瞧 | OPPO 官方网站 (https://www.oppo.com/cn/smartphones/series-reno/reno12/) citeturn502view0 [wordlim: 200] Crawled: 2 days ago; Content type: text/html; Source: open({\"ref_id\":\"https://www.oppo.com/cn/smartphones/series-reno/reno12/\",\"lineno\":null}); Total lines: 699 L0: 【0†Skip to main content】 L1: ",
+      "result": "页面可读，内容待复核",
+      "lineCount": 699
+    },
+    {
+      "model": "realme GT5 Pro",
+      "url": "https://www.realme.com/cn/realme-gt-5-pro/specs",
+      "head": "真我GT5 Pro 参数-realme真我官方商城 (https://www.realme.com/cn/realme-gt-5-pro/specs) citeturn506view0 [wordlim: 200] Crawled: 2 days ago; Content type: text/html; Source: open({\"ref_id\":\"https://www.realme.com/cn/realme-gt-5-pro/specs\",\"lineno\":null}); Total lines: 506 L0:   * GT系列 L1: ",
+      "result": "页面可读，内容待复核",
+      "lineCount": 506
+    },
+    {
+      "model": "vivo X200 Ultra",
+      "url": "https://m.vivo.com.cn/vivo/param/x200ultra",
+      "head": "vivo X200 Ultra 专业影像旗舰 - vivo官方网站 (https://m.vivo.com.cn/vivo/param/x200ultra) citeturn513view0 [wordlim: 200] Crawled: yesterday; Content type: text/html; Source: open({\"ref_id\":\"https://m.vivo.com.cn/vivo/param/x200ultra\",\"lineno\":null}); Total lines: 407 L0:   * 品牌 L1:   * OriginOS",
+      "result": "页面可读，内容待复核",
+      "lineCount": 407
+    },
+    {
+      "model": "vivo X200 Pro mini",
+      "url": "https://www.vivo.com.cn/vivo/param/x200promini",
+      "head": "vivo X200 Pro mini 专业影像旗舰 - vivo官方网站 (https://www.vivo.com.cn/vivo/param/x200promini) citeturn516view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://www.vivo.com.cn/vivo/param/x200promini\",\"lineno\":null}); Total lines: 404 L0:   * 品牌 L1:   * OriginOS",
+      "result": "页面可读，内容待复核",
+      "lineCount": 404
+    },
+    {
+      "model": "vivo X100 Ultra",
+      "url": "https://www.vivo.com.cn/vivo/param/x100ultra",
+      "head": "vivo X100 Ultra 专业影像旗舰 - vivo官方网站 (https://www.vivo.com.cn/vivo/param/x100ultra) citeturn511view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://www.vivo.com.cn/vivo/param/x100ultra\",\"lineno\":null}); Total lines: 416 L0:   * 品牌 L1:   * OriginOS",
+      "result": "页面可读，内容待复核",
+      "lineCount": 416
+    },
+    {
+      "model": "vivo X Fold5",
+      "url": "https://www.vivo.com.cn/vivo/param/xfold5",
+      "head": "vivo X Fold5 专业影像旗舰 - vivo官方网站 (https://www.vivo.com.cn/vivo/param/xfold5) citeturn517view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://www.vivo.com.cn/vivo/param/xfold5\",\"lineno\":null}); Total lines: 409 L0:   * 品牌 L1:   * OriginOS",
+      "result": "页面可读，内容待复核",
+      "lineCount": 409
+    },
+    {
+      "model": "vivo X Fold3 Pro",
+      "url": "https://www.vivo.com.cn/vivo/param/xfold3pro",
+      "head": "vivo X Fold3 Pro - vivo智能手机官方网站 (https://www.vivo.com.cn/vivo/param/xfold3pro) citeturn512view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://www.vivo.com.cn/vivo/param/xfold3pro\",\"lineno\":null}); Total lines: 405 L0:   * 品牌 L1:   * OriginOS",
+      "result": "页面可读，内容待复核",
+      "lineCount": 405
+    },
+    {
+      "model": "vivo X Fold3",
+      "url": "https://www.vivo.com.cn/service/questions/all?categoryId=158&questionId=1597",
+      "head": "vivo X Fold3系列产品常见问题 | vivo官网 (https://www.vivo.com.cn/service/questions/all?categoryId=158&questionId=1597) citeturn514view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://www.vivo.com.cn/service/questions/all?categoryId=158&questionId=1597\",\"lineno\":null}); Total lines: 714",
+      "result": "页面可读，内容待复核",
+      "lineCount": 714
+    },
+    {
+      "model": "iQOO 13",
+      "url": "https://www.vivo.com.cn/vivo/param/iqoo13",
+      "head": "iQOO 13 - vivo智能手机官方网站 (https://www.vivo.com.cn/vivo/param/iqoo13) citeturn510view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://www.vivo.com.cn/vivo/param/iqoo13\",\"lineno\":null}); Total lines: 411 L0:   * 品牌 L1:   * OriginOS",
+      "result": "页面可读，内容待复核",
+      "lineCount": 411
+    },
+    {
+      "model": "iQOO 12 Pro",
+      "url": "https://www.vivo.com.cn/vivo/param/iqoo12pro",
+      "head": "iQOO 12 Pro- vivo智能手机官方网站 (https://www.vivo.com.cn/vivo/param/iqoo12pro) citeturn515view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://www.vivo.com.cn/vivo/param/iqoo12pro\",\"lineno\":null}); Total lines: 401 L0:   * 品牌 L1:   * OriginOS",
+      "result": "页面可读，内容待复核",
+      "lineCount": 401
+    },
+    {
+      "model": "iQOO 12",
+      "url": "https://www.vivo.com.cn/vivo/param/iqoo12",
+      "head": "iQOO 12 - vivo智能手机官方网站 (https://www.vivo.com.cn/vivo/param/iqoo12) citeturn518view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://www.vivo.com.cn/vivo/param/iqoo12\",\"lineno\":null}); Total lines: 401 L0:   * 品牌 L1:   * OriginOS",
+      "result": "页面可读，内容待复核",
+      "lineCount": 401
+    },
+    {
+      "model": "iQOO 11 Pro",
+      "url": "https://www.vivo.com.cn/vivo/param/iqoo11pro",
+      "head": "iQOO 11 Pro - vivo智能手机官方网站 (https://www.vivo.com.cn/vivo/param/iqoo11pro) citeturn519view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://www.vivo.com.cn/vivo/param/iqoo11pro\",\"lineno\":null}); Total lines: 398 L0:   * 品牌 L1:   * OriginOS",
+      "result": "页面可读，内容待复核",
+      "lineCount": 398
+    },
+    {
+      "model": "iQOO 11",
+      "url": "https://www.vivo.com.cn/vivo/param/iqoo11",
+      "head": "iQOO 11 - vivo智能手机官方网站 (https://www.vivo.com.cn/vivo/param/iqoo11) citeturn524view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://www.vivo.com.cn/vivo/param/iqoo11\",\"lineno\":null}); Total lines: 399 L0:   * 品牌 L1:   * OriginOS",
+      "result": "页面可读，内容待复核",
+      "lineCount": 399
+    },
+    {
+      "model": "iQOO Neo9",
+      "url": "https://www.vivo.com.cn/service/questions?categoryId=73",
+      "head": "iQOO Neo9系列产品常见问题 | vivo官网 (https://www.vivo.com.cn/service/questions?categoryId=73) citeturn521view0 [wordlim: 200] Crawled: 2 days ago; Content type: text/html; Source: open({\"ref_id\":\"https://www.vivo.com.cn/service/questions?categoryId=73\",\"lineno\":null}); Total lines: 1026 L0:   * 【0†品牌】 L1:   * 【1†OriginOS】",
+      "result": "页面可读，内容待复核",
+      "lineCount": 1026
+    },
+    {
+      "model": "魅族 21 Pro",
+      "url": "https://m.meizu.com/21pro/spec",
+      "head": "Internal Error () citeturn523view0 [wordlim: 200] Source: open({\"ref_id\":\"https://m.meizu.com/21pro/spec\",\"lineno\":null});  Failed to fetch https://m.meizu.com/21pro/spec: (502) Bad Gateway",
+      "result": "访问受阻",
+      "lineCount": null
+    },
+    {
+      "model": "魅族 21",
+      "url": "https://www.meizu.com/21/spec",
+      "head": "〖魅族 21〗参数 - 魅族官网 (https://www.meizu.com/21/spec) citeturn522view0 [wordlim: 200] Crawled: yesterday; Content type: text/html; Source: open({\"ref_id\":\"https://www.meizu.com/21/spec\",\"lineno\":null}); Redirected to URL: https://www.meizu.com/21/spec/; Total lines: 319 L0: 【0†Image: log】 L1: ",
+      "result": "页面可读，内容待复核",
+      "lineCount": 319
+    },
+    {
+      "model": "魅族 20",
+      "url": "https://www.meizu.com/20/spec/",
+      "head": "〖魅族 20〗参数 - 魅族官网 (https://www.meizu.com/20/spec/) citeturn520view0 [wordlim: 200] Crawled: 2 days ago; Content type: text/html; Source: open({\"ref_id\":\"https://www.meizu.com/20/spec/\",\"lineno\":null}); Total lines: 310 L0: 【0†Image: log】 L1: ",
+      "result": "页面可读，内容待复核",
+      "lineCount": 310
+    }
+  ]
+}
