@@ -1,39 +1,36 @@
-# 买前看
+# Before You Buy
 
-黑客松中的购买前信息核实原型，记录需求、交互和验证边界。
+**A little more checking. A little less guessing.**
 
-GitHub：[eli-ovops/buyer-check](https://github.com/eli-ovops/buyer-check)
+A listing rarely tells you everything you need to know. Before You Buy helps organize what the seller has said, what is still missing, and what to check when the item arrives.
 
-## 内容
+The flow has three parts: item information, questions for the seller, and arrival checks.
 
-本次公开副本包含 41 个来源文件。
+## What the prototype does
 
-- [`二手购买助手_Demo与MVP_PRD.md`](%E4%BA%8C%E6%89%8B%E8%B4%AD%E4%B9%B0%E5%8A%A9%E6%89%8B_Demo%E4%B8%8EMVP_PRD.md)
-- [`二手购买助手_Demo与MVP_PRD_v0.2.md`](%E4%BA%8C%E6%89%8B%E8%B4%AD%E4%B9%B0%E5%8A%A9%E6%89%8B_Demo%E4%B8%8EMVP_PRD_v0.2.md)
-- [`buyer-check/.gitignore`](buyer-check/.gitignore)
-- [`buyer-check/53型号核验明细.md`](buyer-check/53%E5%9E%8B%E5%8F%B7%E6%A0%B8%E9%AA%8C%E6%98%8E%E7%BB%86.md)
-- [`buyer-check/DESIGN.md`](buyer-check/DESIGN.md)
-- [`buyer-check/PRODUCT.md`](buyer-check/PRODUCT.md)
-- [`buyer-check/README.md`](buyer-check/README.md)
-- [`buyer-check/index.html`](buyer-check/index.html)
-- [`buyer-check/package.json`](buyer-check/package.json)
-- [`buyer-check/pnpm-lock.yaml`](buyer-check/pnpm-lock.yaml)
+- Accepts descriptions, seller replies, and notes entered by the buyer.
+- Extracts some explicit text fields using local rules.
+- Suggests questions and checklists based on the type of device.
+- Leaves the buyer in charge of confirming the information.
 
-文件类型：.ts（19）、.md（11）、.json（5）、.yaml（2）、(no extension)（1）、.html（1）、.tsx（1）、.css（1）。
+## Start here
 
-## 使用与阅读入口
+- [Current functionality and setup](buyer-check/README.md)
+- [Product scope](buyer-check/PRODUCT.md)
+- [Frontend package and scripts](buyer-check/package.json)
 
-先查看保留的原项目 README、包清单与直接相关源码；运行环境和依赖以项目内实际说明为准。
-- [项目说明：buyer-check/README.md](buyer-check/README.md)
+## Current limits
 
-## 来源与许可
+This is a local React prototype. It does not call a language model, read marketplace links, analyze images, make payments, or authenticate a physical device. Rule coverage is incomplete, and every extracted field and prompt needs review.
 
-本仓库新增介绍及用户原创部分按 MIT 许可公开；第三方材料按其各自许可证和署名使用，不以本许可证重新授权第三方内容。
+Inputs are held in page memory and disappear on refresh. Device-, region-, and system-specific instructions still have verification gaps. The public copy was not rerun during this documentation update.
 
-## 当前状态与验证边界
+Some linked implementation notes are in Chinese.
 
-- 本次完成公开副本整理和静态检查；没有运行来源代码、构建 App、安装 Skill 或启动服务。
-- 项目可能处于原型、实验或研究阶段；没有将其表述为生产交付、客户验收或经过验证的投资收益。
-- 图片、视频、数据库、真实账户记录及未确认可公开的附件没有随本次文本/源码副本上传。
-- 部分相对链接、运行依赖或素材可能仍需补齐；原始快照中的静态引用缺口数为 0，该数字不是运行失败数。
-- [本次来源文件清单](SOURCE_MANIFEST.csv)
+## Sources and license
+
+The new presentation material and the owner's original contributions are published under the [MIT license](LICENSE). Third-party material keeps its own licenses and attribution; this license does not relicense it. Existing source and license files have not been changed by this update.
+
+This public snapshot contains 41 source files. The [source manifest](SOURCE_MANIFEST.csv) lists their paths and hashes. Original media, databases, private account records, and unprocessed attachments are outside this public text-and-source snapshot.
+
+Publication and static checks do not establish runtime readiness, customer acceptance, or measured productivity gains.
